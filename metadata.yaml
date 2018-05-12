@@ -1,0 +1,32 @@
+_repo: The-Crooked-House_22820
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fleming, Brandon
+    gutenberg_agent_id: '25561'
+    url: http://www.gutenberg.org/2009/agents/25561
+description: Three generations of the Anglo-Greek Leonides family live together in
+  a large, seemingly crooked house, under the patriarchy of Aristide. He is an ageing
+  millionaire who originally moved to England from Smyrna and, in the novel, spends
+  his remaining days in the company of his second wife Brenda, fifty years his junior.
+  After the old man is poisoned with his own eye medicine (eserine), his granddaughter
+  Sophia tells her fiancé Charles Hayward, the story's first person narrator, that
+  she can't marry him until the killer is apprehended; so, desperate for her hand
+  in marriage, he begins his own investigation...
+gutenberg_issued: '2007-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22820'
+  lccn: '21001277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+title: The Crooked House
+url: http://www.gutenberg.org/ebooks/22820
